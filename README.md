@@ -1,2 +1,2 @@
-# Learning
-Personal repository for learning Deep Learning
+# Deep Learning
+Personal repository for lear Deep Learning.
