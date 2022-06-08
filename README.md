@@ -1,3 +1,3 @@
-# Deep Learning
+# Deep Learning with Tensorflow
 
-Personal repository for learn Deep Learning from [Pytorch](https://pytorch.org/).
+Personal repository for learn Deep Learning from [Tensorflow](https://www.tensorflow.org/).
